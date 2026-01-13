@@ -1,2 +1,2 @@
 # Geometry-Calculator-in-C-
-Simple Geometry Calculator build with C++
+Simple Geometry,arithmetic,Temperature Calculator build with C++
